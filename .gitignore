@@ -1,0 +1,6 @@
+myenv/
+.ipynb_checkpoints/
+mlruns/
+mlartifacts/
+metrics/
+http:/
